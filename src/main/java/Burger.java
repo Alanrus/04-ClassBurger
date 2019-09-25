@@ -1,4 +1,8 @@
-public class Burgers {
+public class Burger {
+    long id;
+    String picture;
+    String description;
+    String name;
     int weight;
     String composition;
     int calorific;
